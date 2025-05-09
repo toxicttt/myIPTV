@@ -89,6 +89,8 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003873466.m3u8
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887500.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="卫视频道",北京新闻
 http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1 tvg-name="苏州4k" tvg-id="苏州4k" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="卫视频道", 苏州4k
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://livecdn.zbds.top/logo/优漫卡通.png" group-title="儿童频道", 优漫卡通
 http://111.43.126.240:9003/hls/74/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
