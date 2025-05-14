@@ -373,3 +373,23 @@ https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
 https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 #EXTINF:-1 tvg-name="NHK Oaska" tvg-id="NHK Oaska" tvg-logo="https://livecdn.zbds.top/logo/NHK Oaska.png" group-title="日本", NHK Oaska
 https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
+#EXTINF:-1 tvg-name="赛事播01" tvg-id="赛事播01" tvg-logo="" group-title="足球", 赛事播01
+http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-name="NBATV" tvg-id="NBATV" tvg-logo="" group-title="NBA", NBA TV FHD
+http://doubleclicktv.live/70376812/52663544/885
+#EXTINF:-1 tvg-name="UKSKYPremier" tvg-id="UKSKYFootball" tvg-logo="" group-title="足球", UK Sky Sports： Premier League
+http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001378
+#EXTINF:-1 tvg-name="UKSKYFootball" tvg-id="UKSKYFootball" tvg-logo="" group-title="足球", UK Sky Sports： Football
+http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001373
+#EXTINF:-1 tvg-name="FIFA+" tvg-id="FIFA+" tvg-logo="" group-title="足球", FIFA+ (720P)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-name="咪咕NBA" tvg-id="咪咕NBA" tvg-logo="" group-title="NBA", 咪咕NBA
+http://dsj.motem.top:8880/itv/3000000010000015686.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png" group-title="Business",Bloomberg Television
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b976b93279cb000772c6f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a44-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cd2f458e-d0fb-480d-8f4f-3d15b67ed17c
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png" group-title="Business",Bloomberg TV+ UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
