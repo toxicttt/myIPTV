@@ -1,438 +1,372 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-http://ycsj.aguihome.com:4022/udp/233.50.200.99:5140
-#EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
-https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1HD" tvg-id="CCTV1HD" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1高清
-http://202.168.187.208:9089/tsfile/live/1003_1.m3u8
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003864351.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://livecdn.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
-http://ycsj.aguihome.com:4022/udp/233.50.200.100:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870745.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://livecdn.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
-http://ycsj.aguihome.com:4022/udp/233.50.200.107:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
-http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870747.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://livecdn.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
-http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870748.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://livecdn.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
-http://139.209.168.185:9003//hls/7/index.m3u8
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870759.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
-http://ycsj.aguihome.com:4022/udp/233.50.200.109:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870749.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://livecdn.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
-http://ycsj.aguihome.com:4022/udp/233.50.200.102:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870750.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://livecdn.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
-http://ycsj.aguihome.com:4022/udp/233.50.200.110:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870838.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://livecdn.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
-http://ycsj.aguihome.com:4022/udp/233.50.200.23:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870752.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://livecdn.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
-http://ycsj.aguihome.com:4022/udp/233.50.200.22:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870753.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://livecdn.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
-http://ycsj.aguihome.com:4022/udp/233.50.201.11:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870754.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://livecdn.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
-http://ycsj.aguihome.com:4022/udp/233.50.200.21:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870755.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://livecdn.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
-http://ycsj.aguihome.com:4022/udp/233.50.200.111:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004796248.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://livecdn.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
-http://ycsj.aguihome.com:4022/udp/233.50.200.103:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870756.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://livecdn.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
-http://ycsj.aguihome.com:4022/udp/233.50.201.15:5140
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870757.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://livecdn.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
-http://139.209.168.185:9003//hls/19/index.m3u8
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004972604.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://livecdn.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV17
-http://ycsj.aguihome.com:4022/udp/233.50.200.113:5140
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-id="CCTV风云足球" tvg-logo="https://livecdn.zbds.top/logo/CCTV足球风云.png" group-title="央视频道",CCTV风云足球
-https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873458.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873462.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873461.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796511.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873473.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873469.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873468.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887270.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796458.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000004972569.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870776.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873464.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873459.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873474.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873466.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873467.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873460.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873465.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873471.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003873470.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870776.m3u8
-#EXTINF:-1 tvg-name="北京4k超清" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京4k超清.png" group-title="卫视频道",北京4k超清
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887500.m3u8
-#EXTINF:-1 tvg-name="北京剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京剧场.png" group-title="卫视频道",北京剧场
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887497.m3u8
-#EXTINF:-1 tvg-name="北京娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京娱乐.png" group-title="卫视频道",北京娱乐
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887499.m3u8
-#EXTINF:-1 tvg-name="北京电影" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京电影.png" group-title="卫视频道",北京电影
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887498.m3u8
-#EXTINF:-1 tvg-name="北京动画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京动画.png" group-title="卫视频道",北京动画
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887496.m3u8
-#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="卫视频道",北京体育休闲
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870779.m3u8
-#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京IPTV4K
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887500.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="卫视频道",北京新闻
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870780.m3u8
-#EXTINF:-1 tvg-name="苏州4k" tvg-id="苏州4k" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png" group-title="卫视频道", 苏州4k
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870758.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="湖南卫视" tvg-logo="https://livecdn.zbds.top/logo/湖南卫视.png" group-title="地方卫视", 湖南卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873458.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://livecdn.zbds.top/logo/北京卫视.png" group-title="地方卫视", 北京卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870776.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://livecdn.zbds.top/logo/东方卫视.png" group-title="地方卫视", 东方卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873462.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://livecdn.zbds.top/logo/浙江卫视.png" group-title="地方卫视", 浙江卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873464.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://livecdn.zbds.top/logo/江苏卫视.png" group-title="地方卫视", 江苏卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="广东卫视" tvg-logo="https://livecdn.zbds.top/logo/广东卫视.png" group-title="地方卫视", 广东卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873459.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-id="江西卫视" tvg-logo="https://livecdn.zbds.top/logo/江西卫视.png" group-title="地方卫视", 江西卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004796511.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://livecdn.zbds.top/logo/深圳卫视.png" group-title="地方卫视", 深圳卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="https://livecdn.zbds.top/logo/东南卫视.png" group-title="地方卫视", 东南卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873473.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="天津卫视" tvg-logo="https://livecdn.zbds.top/logo/天津卫视.png" group-title="地方卫视", 天津卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873466.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://livecdn.zbds.top/logo/安徽卫视.png" group-title="地方卫视", 安徽卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873469.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="山东卫视" tvg-logo="https://livecdn.zbds.top/logo/山东卫视.png" group-title="地方卫视", 山东卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873467.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="辽宁卫视" tvg-logo="https://livecdn.zbds.top/logo/辽宁卫视.png" group-title="地方卫视", 辽宁卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-id="河北卫视" tvg-logo="https://livecdn.zbds.top/logo/河北卫视.png" group-title="地方卫视", 河北卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-id="河南卫视" tvg-logo="https://livecdn.zbds.top/logo/河南卫视.png" group-title="地方卫视", 河南卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887270.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-id="湖北卫视" tvg-logo="https://livecdn.zbds.top/logo/湖北卫视.png" group-title="地方卫视", 湖北卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://livecdn.zbds.top/logo/重庆卫视.png" group-title="地方卫视", 重庆卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004796458.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://livecdn.zbds.top/logo/贵州卫视.png" group-title="地方卫视", 贵州卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873471.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="https://livecdn.zbds.top/logo/吉林卫视.png" group-title="地方卫视", 吉林卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000004972569.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="黑龙江卫视" tvg-logo="https://livecdn.zbds.top/logo/黑龙江卫视.png" group-title="地方卫视", 黑龙江卫视
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003873470.m3u8
+#EXTINF:-1 tvg-name="北京4k超清" tvg-id="北京4k超清" tvg-logo="https://livecdn.zbds.top/logo/北京4k超清.png" group-title="地方卫视", 北京4k超清
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 tvg-name="北京电影" tvg-id="北京电影" tvg-logo="https://livecdn.zbds.top/logo/北京电影.png" group-title="地方卫视", 北京电影
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-name="北京剧场" tvg-id="北京剧场" tvg-logo="https://livecdn.zbds.top/logo/北京剧场.png" group-title="地方卫视", 北京剧场
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-name="北京动画" tvg-id="北京动画" tvg-logo="https://livecdn.zbds.top/logo/北京动画.png" group-title="地方卫视", 北京动画
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-name="北京娱乐" tvg-id="北京娱乐" tvg-logo="https://livecdn.zbds.top/logo/北京娱乐.png" group-title="地方卫视", 北京娱乐
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-id="北京体育休闲" tvg-logo="https://livecdn.zbds.top/logo/北京体育休闲.png" group-title="地方卫视", 北京体育休闲
+http://cici2012.synology.me:35455/bptv/10000100000000050000000003870779.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://livecdn.zbds.top/logo/优漫卡通.png" group-title="儿童频道", 优漫卡通
-http://111.43.126.240:9003/hls/74/index.m3u8
+http://live.nctv.top/DYjsklis/jstv5.php?id=ymkt
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000003904597.m3u8
+http://live.nctv.top/DYjsklis/bjtv.php?id=kkse
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://livecdn.zbds.top/logo/嘉佳卡通.png" group-title="儿童频道", 嘉佳卡通
 http://2.itv.nctv.top:35455/bptv/10000100000000050000000003887459.m3u8
-#EXTINF:-1 tvg-name="炫动卡通" tvg-id="炫动卡通" tvg-logo="https://livecdn.zbds.top/logo/炫动卡通.png" group-title="儿童频道", 炫动卡通
-http://111.43.126.240:9003/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://live.izbds.com/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796942.m3u8
+http://www.sunxiulin.fun:8888/udp/239.76.253.107:9000
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="儿童频道", 浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="" group-title="儿童频道", 猫和老鼠
-https://live.iill.top/huya/11352879
+http://live.nctv.top/DYjsklis/huya.php?id=11352879
 #EXTINF:-1 tvg-name="海贼王" tvg-id="海贼王" tvg-logo="" group-title="儿童频道", 海贼王
-https://live.iill.top/huya/16913382
+http://live.nctv.top/DYjsklis/huya.php?id=16913382
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="" group-title="儿童频道", 蜡笔小新
-https://live.iill.top/bilibili/30150311
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="港澳频道",凤凰香港
-http://115.149.139.141:10000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文台.png" group-title="港澳频道",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="港澳频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-#EXTINF:-1 tvg-name="TVB J2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" group-title="港澳频道",TVB J2
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png.png" group-title="港澳频道",TVB
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="TVB 4K" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png.png" group-title="港澳频道",TVB 4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="TVB华丽" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="港澳频道",TVB华丽
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-name="TVB Pearl" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="港澳频道",TVB Pearl
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="TVB无线星河" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港澳频道",TVB无线星河
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB无线新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻.png" group-title="港澳频道",TVB无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBplus.png" group-title="港澳频道",TVB Plus
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBclassic.png" group-title="港澳频道",TVB千禧经典
-http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="VIUTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/viutv.png" group-title="港澳频道",VIUTV1
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-#EXTINF:-1 tvg-name="VIUTV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/viutv.png" group-title="港澳频道",VIUTV2
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv2
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="" group-title="港澳频道",美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="港澳频道",RTHK32
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="港澳频道",RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK34" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="港澳频道",RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK35" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="港澳频道",RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际",BBC
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="国际",CNN
-https://v15.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/CNA.png" group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际",CGTN
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="国际",CGTN Documentary
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际",ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/gbnews.png" group-title="国际",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="国际",Al Jazerra
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://logo.ottcst.info/WIONNEWS.png" group-title="国际",Wion News
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
-https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.tvpassport.com/image/station/240x135/oan-news.png" group-title="国际",One American News
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="国际",Fashion TV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/kidstv.png" group-title="国际",Kids TV
-https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MYTIMEMOVIE.png" group-title="国际",Mytime
-https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",ION Plus
-https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
-#EXTINF:-1 group-title="国际",LoveStories
-https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RW1986/IPTV/main/logos/TravelXP.png" group-title="国际",Travel XP
-https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HTLo1GG" group-title="国际",Food
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TastemadeTravel.webp" group-title="国际",Tastemade
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/rakutenviki.png" group-title="国际",Rakuten VIKI
-https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/skySportPlus.webp" group-title="国际",Sky Sports F1
-http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png" group-title="国际",Sky News
-https://live.iill.top/youtube/@SkyNews
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="国际",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="国际",Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="国际",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际",California Music Channel
-https://cmc-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Xplore.png" group-title="国际",Xplore TV
-https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" group-title="国际",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-name="Kevin Hart's LOL! Network" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="国际",Kevin Hart's LOL! Network
-https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="国际",A&E
-https://v5.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="国际",AMC - Eastern Feed
-https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="国际",Altitude Sports Denver
-https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="国际",Animal Planet US - East
-https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="国际",BBC News - North America HD
-https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="国际",Big Ten Network
-https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="国际",BRAVO USA 
-https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="国际",C-SPAN
-https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="国际",C-SPAN 2
-https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="国际",CBSLA (KCBS) Los Angeles
-https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="国际",CBSNY (WCBS) New York
-https://v3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="国际",CMT US - Eastern Feed
-https://v3.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="国际",CNBC USA
-https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="国际",CW (WDCW) District of Columbia
-https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="国际",CARTOON NETWORK USA - Eastern Feed
-https://v5.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="国际",Chicago Sports Network
-https://v2.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="国际",CINEMAX - Eastern Feed
-https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="国际",COMEDY CENTRAL (US) - Eastern Feed
-https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="国际",Crime + Investigation USA HD
-https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="国际",DISCOVERY FAMILY CHANNEL
-https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="国际",DISNEY CHANNEL - Eastern Feed
-https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="国际",Disney JR USA - East
-https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="国际",Disney XD USA - Eastern Feed
-https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="国际",E! Entertainment Television USA - Eastern Feed
-https://v13.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="国际",ESPN
-https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="国际",FOX (KTTV) Los Angeles
-https://v13.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="国际",FOXNY
-https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="国际",FX Movie Channel
-https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="国际",FX Networks East Coast
-https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="国际",FXX USA - Eastern
-https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="国际",FYI USA - Eastern
-https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="国际",FanDuel SN Indiana
-https://v8.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="国际",FanDuel SN Detroit
-https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="国际",FanDuel SN Florida
-https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="国际",FanDuel SN Great Lakes
-https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="国际",FanDuel SN North
-https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="国际",FanDuel SN Ohio
-https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="国际",FanDuel SN Oklahoma
-https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="国际",FanDuel SN SoCal
-https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork(South).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Carolinas
-https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South-.Tennessee.(USA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Tennessee
-https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" group-title="国际",FanDuel SN West
-https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="business",Fox Business Network
-https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="国际",FanDuel SN Wisconsin
-https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.North.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast North Carolina
-https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.South.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast South Carolina
-https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast Tennessee Nashville
-https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Tennessee East
-https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",FOOD NETWORK USA - Eastern Feed
-https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="国际",Fox Sports 2
-https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="国际",GAME SHOW NETWORK East
-https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="国际",HBO - Eastern Feed
-https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2 - Eastern Feed
-https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="国际",HBO Family - Eastern Feed
-https://v13.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="国际",HBO Signature (HBO 3) - Eastern
-https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="国际",HBO Zone HD - East
-https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="国际",HGTV USA - Eastern Feed
-https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="国际",HLN
-https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="国际",Hallmark Mystery - HD
-https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="国际",ION - Eastern Feed
-https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="国际",IFC Independent Film Channel US
-https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="国际",LOGO - East
-https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="国际",Lifetime Movies Network - East
-https://v12.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="国际",Lifetime Network US - Eastern Feed
-https://v3.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="国际",MLB Network
-https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="国际",MSG Madison Square Gardens
-https://v16.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="国际",MTV 2 East
-https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="国际",Marquee Sports Network
-https://v8.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="国际",MeTV Toons (WJLP2) New Jersey
-https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="国际",Midatlantic Sports Network
-https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="国际",Monumental Sports Network
-https://v5.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="国际",CINEMAX MOREMAX Eastern
-https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="国际",Motor Trend HD
-https://v3.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="国际",MovieMax (Max 6) - East
-https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="国际",NBA TV USA
-https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="国际",NBC (KNBC) Los Angeles
-https://v13.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="国际",NY
-https://v12.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="国际",NBC Sports Bay Area
-https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="国际",NBC Sports Boston
-https://v12.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="国际",NBC Sports California
-https://v16.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="国际",NBC Sports Philadelphia
-https://v3.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="国际",NFL RedZone
-https://v13.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="国际",NHL Network USA
-https://v17.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际",National Geographic US - Eastern
-https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="国际",National Geographic Wild
-https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="国际",New England Sports Network
-https://v8.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="国际",Newsmax TV
-https://v8.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="国际",NICK JR. - East
-https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="国际",Nickelodeon USA - East Feed
-https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="国际",Outdoor Channel US
-https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="国际",Oxygen - Eastern Feed
-https://v3.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="国际",Showtime - Eastern Feed
-https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="国际",Starz - Eastern
-https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="国际",SYFY - Eastern Feed
-https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="国际",TBS - East
-https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="国际",TLC USA - Eastern
-https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="国际",TSN 2
-https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="国际",TSN 3
-https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="国际",TSN 4
-https://v2.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="国际",TSN 5
-https://v14.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="国际",The Cooking Channel
-https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="国际",VH1 - Eastern Feed
-https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="国际",VICE
-https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="国际",WETV (Women's Entertainment) - Eastern
-https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
+http://live.nctv.top/DYjsklis/huya.php?id=11352970
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="" group-title="儿童频道", 海绵宝宝
+http://live.nctv.top/DYjsklis/bili.php?id=26863308
+#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="" group-title="儿童频道", 七龙珠
+http://live.nctv.top/DYjsklis/huya.php?id=11601966
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-id="名侦探柯南" tvg-logo="" group-title="儿童频道", 名侦探柯南
+http://live.nctv.top/DYjsklis/huya.php?id=30080236
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="儿童频道",NICK JR. - East
+http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="儿童频道",Nick Jr. Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png" group-title="儿童频道",NickToons
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
+#EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="儿童频道",Disney Channel East
+http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="儿童频道",Disney Junior East
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="儿童频道",Disney XD West (720p)
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 1.png" group-title="体育频道", Astro Premier League 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+#EXTINF:-1 tvg-name="Astro EPL 1 backup" tvg-id="Astro EPL 1 backup" tvg-logo="https://livecdn.zbds.top/logo/Astro EPL 1 backup.png" group-title="体育频道", Astro EPL 1 backup
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
+#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-id="Astro Premier League 2" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 2.png" group-title="体育频道", Astro Premier League 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+#EXTINF:-1 tvg-name="Astro Grandstand" tvg-id="Astro Grandstand" tvg-logo="https://livecdn.zbds.top/logo/Astro Grandstand.png" group-title="体育频道", Astro Grandstand
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="Astro Football" tvg-logo="https://livecdn.zbds.top/logo/Astro Football.png" group-title="体育频道", Astro Football
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="Astro Sports Plus" tvg-logo="https://livecdn.zbds.top/logo/Astro Sports Plus.png" group-title="体育频道", Astro Sports Plus
+https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
+#EXTINF:-1 tvg-name="Astro Badminton 1" tvg-id="Astro Badminton 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Badminton 1.png" group-title="体育频道", Astro Badminton 1
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
+#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-id="Astro Badminton 2" tvg-logo="https://livecdn.zbds.top/logo/Astro Badminton 2.png" group-title="体育频道", Astro Badminton 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+#EXTINF:-1 tvg-name="Astro W-Sports" tvg-id="Astro W-Sports" tvg-logo="https://livecdn.zbds.top/logo/Astro W-Sports.png" group-title="体育频道", Astro W-Sports
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
+#EXTINF:-1 tvg-name="Supersports 1" tvg-id="Supersports 1" tvg-logo="https://livecdn.zbds.top/logo/Supersports 1.png" group-title="体育频道", Supersports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
+#EXTINF:-1 tvg-name="Supersports 2" tvg-id="Supersports 2" tvg-logo="https://livecdn.zbds.top/logo/Supersports 2.png" group-title="体育频道", Supersports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Assp2
+#EXTINF:-1 tvg-name="Supersports 3" tvg-id="Supersports 3" tvg-logo="https://livecdn.zbds.top/logo/Supersports 3.png" group-title="体育频道", Supersports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Assp3
+#EXTINF:-1 tvg-name="Supersports 4" tvg-id="Supersports 4" tvg-logo="https://livecdn.zbds.top/logo/Supersports 4.png" group-title="体育频道", Supersports 4
+https://smart.pendy.dpdns.org/Smart.php?id=Assp4
+#EXTINF:-1 tvg-name="WWE" tvg-id="WWE" tvg-logo="https://livecdn.zbds.top/logo/WWE.png" group-title="体育频道", WWE
+https://smart.pendy.dpdns.org/Smart.php?id=Wwe
+#EXTINF:-1 tvg-name="Fight Sports" tvg-id="Fight Sports" tvg-logo="https://livecdn.zbds.top/logo/Fight Sports.png" group-title="体育频道", Fight Sports
+https://smart.pendy.dpdns.org/Smart.php?id=Fs
+#EXTINF:-1 tvg-name="NBA TV" tvg-id="NBA TV" tvg-logo="https://livecdn.zbds.top/logo/NBA TV.png" group-title="体育频道", NBA TV
+https://smart.pendy.dpdns.org/Smart.php?id=Nba
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-id="Astro Cricket" tvg-logo="https://livecdn.zbds.top/logo/Astro Cricket.png" group-title="体育频道", Astro Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+#EXTINF:-1 tvg-name="Astro Golf" tvg-id="Astro Golf" tvg-logo="https://livecdn.zbds.top/logo/Astro Golf.png" group-title="体育频道", Astro Golf
+https://smart.pendy.dpdns.org/Smart.php?id=Agolf
+#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-id="Tnt Sports 1" tvg-logo="https://livecdn.zbds.top/logo/Tnt Sports 1.png" group-title="体育频道", Tnt Sports 1
+https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-id="TNT Sports 2" tvg-logo="https://livecdn.zbds.top/logo/TNT Sports 2.png" group-title="体育频道", TNT Sports 2
+https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-id="TNT Sports 3" tvg-logo="https://livecdn.zbds.top/logo/TNT Sports 3.png" group-title="体育频道", TNT Sports 3
+https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-id="TNT Sports 4" tvg-logo="https://livecdn.zbds.top/logo/TNT Sports 4.png" group-title="体育频道", TNT Sports 4
+https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-id="Sony Ten 1" tvg-logo="https://livecdn.zbds.top/logo/Sony Ten 1.png" group-title="体育频道", Sony Ten 1
+https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-id="Sony Ten 2" tvg-logo="https://livecdn.zbds.top/logo/Sony Ten 2.png" group-title="体育频道", Sony Ten 2
+https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-id="Sony Ten 3" tvg-logo="https://livecdn.zbds.top/logo/Sony Ten 3.png" group-title="体育频道", Sony Ten 3
+https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
+#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-id="SPOTV 1 HD" tvg-logo="https://livecdn.zbds.top/logo/SPOTV 1 HD.png" group-title="体育频道", SPOTV 1 HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-id="SPO TV 2" tvg-logo="https://livecdn.zbds.top/logo/SPO TV 2.png" group-title="体育频道", SPO TV 2
+https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+#EXTINF:-1 tvg-name="Skysports F1" tvg-id="Skysports F1" tvg-logo="https://livecdn.zbds.top/logo/Skysports F1.png" group-title="体育频道", Skysports F1
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-id="Skysports Cricket" tvg-logo="https://livecdn.zbds.top/logo/Skysports Cricket.png" group-title="体育频道", Skysports Cricket
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-id="Skysports EPL" tvg-logo="https://livecdn.zbds.top/logo/Skysports EPL.png" group-title="体育频道", Skysports EPL
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-id="Skysports Main Event" tvg-logo="https://livecdn.zbds.top/logo/Skysports Main Event.png" group-title="体育频道", Skysports Main Event
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
+#EXTINF:-1 tvg-name="Skysports News" tvg-id="Skysports News" tvg-logo="https://livecdn.zbds.top/logo/Skysports News.png" group-title="体育频道", Skysports News
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-id="Skysports Mix" tvg-logo="https://livecdn.zbds.top/logo/Skysports Mix.png" group-title="体育频道", Skysports Mix
+https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
+#EXTINF:-1 tvg-name="爱尔达体育2台" tvg-id="爱尔达体育2台" tvg-logo="https://livecdn.zbds.top/logo/爱尔达体育2台.png" group-title="体育频道", 爱尔达体育2台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3台" tvg-id="爱尔达体育3台" tvg-logo="https://livecdn.zbds.top/logo/爱尔达体育3台.png" group-title="体育频道", 爱尔达体育3台
+https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-id="Rugby Pass TV" tvg-logo="https://livecdn.zbds.top/logo/Rugby Pass TV.png" group-title="体育频道", Rugby Pass TV
+https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-id="RTM Sports HD" tvg-logo="https://livecdn.zbds.top/logo/RTM Sports HD.png" group-title="体育频道", RTM Sports HD
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
+#EXTINF:-1 tvg-name="Arena" tvg-id="Arena" tvg-logo="https://livecdn.zbds.top/logo/Arena.png" group-title="体育频道", Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1 tvg-name="Arena 2" tvg-id="Arena 2" tvg-logo="https://livecdn.zbds.top/logo/Arena 2.png" group-title="体育频道", Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-id="BolaArena 1" tvg-logo="https://livecdn.zbds.top/logo/BolaArena 1.png" group-title="体育频道", BolaArena 1
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-id="BolaArena 2" tvg-logo="https://livecdn.zbds.top/logo/BolaArena 2.png" group-title="体育频道", BolaArena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-id="Astro Beinsports 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Beinsports 1.png" group-title="体育频道", Astro Beinsports 1
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
+#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-id="Astro Beinsports 2" tvg-logo="https://livecdn.zbds.top/logo/Astro Beinsports 2.png" group-title="体育频道", Astro Beinsports 2
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
+#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-id="Astro Beinsports 3" tvg-logo="https://livecdn.zbds.top/logo/Astro Beinsports 3.png" group-title="体育频道", Astro Beinsports 3
+https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="Cinemax" tvg-logo="https://livecdn.zbds.top/logo/Cinemax.png" group-title="电影频道", Cinemax
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+#EXTINF:-1 tvg-name="Animax" tvg-id="Animax" tvg-logo="https://livecdn.zbds.top/logo/Animax.png" group-title="电影频道", Animax
+https://smart.pendy.dpdns.org/Smart.php?id=Animax
+#EXTINF:-1 tvg-name="Movies Now HD" tvg-id="Movies Now HD" tvg-logo="https://livecdn.zbds.top/logo/Movies Now HD.png" group-title="电影频道", Movies Now HD
+https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-id="Star Movies HD" tvg-logo="https://livecdn.zbds.top/logo/Star Movies HD.png" group-title="电影频道", Star Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="HBO Family" tvg-logo="https://livecdn.zbds.top/logo/HBO Family.png" group-title="电影频道", HBO Family
+https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+#EXTINF:-1 tvg-name="Hits" tvg-id="Hits" tvg-logo="https://livecdn.zbds.top/logo/Hits.png" group-title="电影频道", Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hits
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="Warner TV" tvg-logo="https://livecdn.zbds.top/logo/Warner TV.png" group-title="电影频道", Warner TV
+https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="HBO HD" tvg-logo="https://livecdn.zbds.top/logo/HBO HD.png" group-title="电影频道", HBO HD
+https://smart.pendy.dpdns.org/Smart.php?id=Hbo
+#EXTINF:-1 tvg-name="HBO Signature" tvg-id="HBO Signature" tvg-logo="https://livecdn.zbds.top/logo/HBO Signature.png" group-title="电影频道", HBO Signature
+https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO Hits" tvg-id="HBO Hits" tvg-logo="https://livecdn.zbds.top/logo/HBO Hits.png" group-title="电影频道", HBO Hits
+https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="SCM" tvg-id="SCM" tvg-logo="https://livecdn.zbds.top/logo/SCM.png" group-title="电影频道", SCM
+https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
+#EXTINF:-1 tvg-name="Dreamworks" tvg-id="Dreamworks" tvg-logo="https://livecdn.zbds.top/logo/Dreamworks.png" group-title="电影频道", Dreamworks
+https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+#EXTINF:-1 tvg-name="Thrill" tvg-id="Thrill" tvg-logo="https://livecdn.zbds.top/logo/Thrill.png" group-title="电影频道", Thrill
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
+#EXTINF:-1 tvg-name="Hits Movie" tvg-id="Hits Movie" tvg-logo="https://livecdn.zbds.top/logo/Hits Movie.png" group-title="电影频道", Hits Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="One" tvg-id="One" tvg-logo="https://livecdn.zbds.top/logo/One.png" group-title="电影频道", One
+https://smart.pendy.dpdns.org/Smart.php?id=One
+#EXTINF:-1 tvg-name="tvN Movie" tvg-id="tvN Movie" tvg-logo="https://livecdn.zbds.top/logo/tvN Movie.png" group-title="电影频道", tvN Movie
+https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-id="Celestial Classic" tvg-logo="https://livecdn.zbds.top/logo/Celestial Classic.png" group-title="电影频道", Celestial Classic
+https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-id="Celestial Movies HD" tvg-logo="https://livecdn.zbds.top/logo/Celestial Movies HD.png" group-title="电影频道", Celestial Movies HD
+https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
+#EXTINF:-1 tvg-name="Axn HD" tvg-id="Axn HD" tvg-logo="https://livecdn.zbds.top/logo/Axn HD.png" group-title="电影频道", Axn HD
+https://smart.pendy.dpdns.org/Smart.php?id=Axn
+#EXTINF:-1 tvg-name="Paramount Network" tvg-id="Paramount Network" tvg-logo="https://livecdn.zbds.top/logo/Paramount Network.png" group-title="电影频道", Paramount Network
+https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-id="Astrol Kplus" tvg-logo="https://livecdn.zbds.top/logo/Astrol Kplus.png" group-title="电影频道", Astrol Kplus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
+#EXTINF:-1 tvg-name="Rock Actions" tvg-id="Rock Actions" tvg-logo="https://livecdn.zbds.top/logo/Rock Actions.png" group-title="电影频道", Rock Actions
+https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-id="Rock Entertainment" tvg-logo="https://livecdn.zbds.top/logo/Rock Entertainment.png" group-title="电影频道", Rock Entertainment
+https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
+#EXTINF:-1 tvg-name="Natgeo_HD" tvg-id="Natgeo_HD" tvg-logo="https://livecdn.zbds.top/logo/Natgeo_HD.png" group-title="纪录频道", Natgeo_HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-id="NatGeo_Wild HD" tvg-logo="https://livecdn.zbds.top/logo/NatGeo_Wild HD.png" group-title="纪录频道", NatGeo_Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="Animal_Planet" tvg-id="Animal_Planet" tvg-logo="https://livecdn.zbds.top/logo/Animal_Planet.png" group-title="纪录频道", Animal_Planet
+https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-id="Discovery Asia" tvg-logo="https://livecdn.zbds.top/logo/Discovery Asia.png" group-title="纪录频道", Discovery Asia
+https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="CI" tvg-id="CI" tvg-logo="https://livecdn.zbds.top/logo/CI.png" group-title="纪录频道", CI
+https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
+#EXTINF:-1 tvg-name="Discovery HD" tvg-id="Discovery HD" tvg-logo="https://livecdn.zbds.top/logo/Discovery HD.png" group-title="纪录频道", Discovery HD
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-id="NatGeo HD" tvg-logo="https://livecdn.zbds.top/logo/NatGeo HD.png" group-title="纪录频道", NatGeo HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="Fashion TV" tvg-logo="https://livecdn.zbds.top/logo/Fashion TV.png" group-title="纪录频道", Fashion TV
+https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="History" tvg-id="History" tvg-logo="https://livecdn.zbds.top/logo/History.png" group-title="纪录频道", History
+https://smart.pendy.dpdns.org/Smart.php?id=History
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-id="BBC Earth HD" tvg-logo="https://livecdn.zbds.top/logo/BBC Earth HD.png" group-title="纪录频道", BBC Earth HD
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-id="BBC Earth Lifestyle" tvg-logo="https://livecdn.zbds.top/logo/BBC Earth Lifestyle.png" group-title="纪录频道", BBC Earth Lifestyle
+https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-id="NatGeo Wild HD" tvg-logo="https://livecdn.zbds.top/logo/NatGeo Wild HD.png" group-title="纪录频道", NatGeo Wild HD
+https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-id="Animal Planet (Eng)" tvg-logo="https://livecdn.zbds.top/logo/Animal Planet (Eng).png" group-title="纪录频道", Animal Planet (Eng)
+https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC" tvg-logo="https://livecdn.zbds.top/logo/TLC.png" group-title="纪录频道", TLC
+https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-id="Foodnetwork Hd" tvg-logo="https://livecdn.zbds.top/logo/Foodnetwork Hd.png" group-title="纪录频道", Foodnetwork Hd
+https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV" tvg-logo="https://livecdn.zbds.top/logo/HGTV.png" group-title="纪录频道", HGTV
+https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+#EXTINF:-1 tvg-name="Skynews" tvg-id="Skynews" tvg-logo="https://livecdn.zbds.top/logo/Skynews.png" group-title="新闻频道", Skynews
+https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+#EXTINF:-1 tvg-name="ABC News" tvg-id="ABC News" tvg-logo="https://livecdn.zbds.top/logo/ABC News.png" group-title="新闻频道", ABC News
+https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
+#EXTINF:-1 tvg-name="CBS HD" tvg-id="CBS HD" tvg-logo="https://livecdn.zbds.top/logo/CBS HD.png" group-title="新闻频道", CBS HD
+https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
+#EXTINF:-1 tvg-name="CBSN HD" tvg-id="CBSN HD" tvg-logo="https://livecdn.zbds.top/logo/CBSN HD.png" group-title="新闻频道", CBSN HD
+https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="France 24" tvg-id="France 24" tvg-logo="https://livecdn.zbds.top/logo/France 24.png" group-title="新闻频道", France 24
+https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-id="DW (Deutsch)" tvg-logo="https://livecdn.zbds.top/logo/DW (Deutsch).png" group-title="新闻频道", DW (Deutsch)
+https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
+#EXTINF:-1 tvg-name="NHK World" tvg-id="NHK World" tvg-logo="https://livecdn.zbds.top/logo/NHK World.png" group-title="新闻频道", NHK World
+https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="Fox News" tvg-id="Fox News" tvg-logo="https://livecdn.zbds.top/logo/Fox News.png" group-title="新闻频道", Fox News
+https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="CNN International" tvg-id="CNN International" tvg-logo="https://livecdn.zbds.top/logo/CNN International.png" group-title="新闻频道", CNN International
+https://smart.pendy.dpdns.org/Smart.php?id=Cnn
+#EXTINF:-1 tvg-name="CNN backup" tvg-id="CNN backup" tvg-logo="https://livecdn.zbds.top/logo/CNN backup.png" group-title="新闻频道", CNN backup
+https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
+#EXTINF:-1 tvg-name="CNBC" tvg-id="CNBC" tvg-logo="https://livecdn.zbds.top/logo/CNBC.png" group-title="新闻频道", CNBC
+https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="CNA" tvg-id="CNA" tvg-logo="https://livecdn.zbds.top/logo/CNA.png" group-title="新闻频道", CNA
+https://smart.pendy.dpdns.org/Smart.php?id=cna
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://livecdn.zbds.top/logo/BBC World News.png" group-title="新闻频道", BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://livecdn.zbds.top/logo/BBC World News.png" group-title="新闻频道", BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-id="Bloomberg News" tvg-logo="https://livecdn.zbds.top/logo/Bloomberg News.png" group-title="新闻频道", Bloomberg News
+https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-id="Al-Jazeera" tvg-logo="https://livecdn.zbds.top/logo/Al-Jazeera.png" group-title="新闻频道", Al-Jazeera
+https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="BBC 1" tvg-id="BBC 1" tvg-logo="https://livecdn.zbds.top/logo/BBC 1.png" group-title="英国", BBC 1
+https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
+#EXTINF:-1 tvg-name="BBC 2" tvg-id="BBC 2" tvg-logo="https://livecdn.zbds.top/logo/BBC 2.png" group-title="英国", BBC 2
+https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
+#EXTINF:-1 tvg-name="CBBC" tvg-id="CBBC" tvg-logo="https://livecdn.zbds.top/logo/CBBC.png" group-title="英国", CBBC
+https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
+#EXTINF:-1 tvg-name="More4" tvg-id="More4" tvg-logo="https://livecdn.zbds.top/logo/More4.png" group-title="英国", More4
+https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
+#EXTINF:-1 tvg-name="Freesports" tvg-id="Freesports" tvg-logo="https://livecdn.zbds.top/logo/Freesports.png" group-title="英国", Freesports
+https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
+#EXTINF:-1 tvg-name="Pick TV" tvg-id="Pick TV" tvg-logo="https://livecdn.zbds.top/logo/Pick TV.png" group-title="英国", Pick TV
+https://smart.pendy.dpdns.org/Smart.php?id=picktv_antik
+#EXTINF:-1 tvg-name="itv 1" tvg-id="itv 1" tvg-logo="https://livecdn.zbds.top/logo/itv 1.png" group-title="英国", itv 1
+https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
+#EXTINF:-1 tvg-name="itv 2" tvg-id="itv 2" tvg-logo="https://livecdn.zbds.top/logo/itv 2.png" group-title="英国", itv 2
+https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
+#EXTINF:-1 tvg-name="Euronews" tvg-id="Euronews" tvg-logo="https://livecdn.zbds.top/logo/Euronews.png" group-title="英国", Euronews
+https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
+#EXTINF:-1 tvg-name="Channel 4" tvg-id="Channel 4" tvg-logo="https://livecdn.zbds.top/logo/Channel 4.png" group-title="英国", Channel 4
+https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
+#EXTINF:-1 tvg-name="BBC World News" tvg-id="BBC World News" tvg-logo="https://livecdn.zbds.top/logo/BBC World News.png" group-title="英国", BBC World News
+https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
+#EXTINF:-1 tvg-name="NHK-総合-2" tvg-id="NHK-総合-2" tvg-logo="https://livecdn.zbds.top/logo/NHK-総合-2.png" group-title="日本", NHK-総合-2
+https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
+#EXTINF:-1 tvg-name="NHK-E" tvg-id="NHK-E" tvg-logo="https://livecdn.zbds.top/logo/NHK-E.png" group-title="日本", NHK-E
+https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
+#EXTINF:-1 tvg-name="テレビ朝日 Asahi TV" tvg-id="テレビ朝日 Asahi TV" tvg-logo="https://livecdn.zbds.top/logo/テレビ朝日 Asahi TV.png" group-title="日本", テレビ朝日 Asahi TV
+https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
+#EXTINF:-1 tvg-name="JET 綜合" tvg-id="JET 綜合" tvg-logo="https://livecdn.zbds.top/logo/JET 綜合.png" group-title="日本", JET 綜合
+https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
+#EXTINF:-1 tvg-name="テレビ東京 Tokyo TV" tvg-id="テレビ東京 Tokyo TV" tvg-logo="https://livecdn.zbds.top/logo/テレビ東京 Tokyo TV.png" group-title="日本", テレビ東京 Tokyo TV
+https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
+#EXTINF:-1 tvg-name="TOKYOMX" tvg-id="TOKYOMX" tvg-logo="https://livecdn.zbds.top/logo/TOKYOMX.png" group-title="日本", TOKYOMX
+https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
+#EXTINF:-1 tvg-name="NHKBS1" tvg-id="NHKBS1" tvg-logo="https://livecdn.zbds.top/logo/NHKBS1.png" group-title="日本", NHKBS1
+https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
+#EXTINF:-1 tvg-name="NHKBSプレミア Premium" tvg-id="NHKBSプレミア Premium" tvg-logo="https://livecdn.zbds.top/logo/NHKBSプレミア Premium.png" group-title="日本", NHKBSプレミア Premium
+https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
+#EXTINF:-1 tvg-name="BSジャパン 181" tvg-id="BSジャパン 181" tvg-logo="https://livecdn.zbds.top/logo/BSジャパン 181.png" group-title="日本", BSジャパン 181
+https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
+#EXTINF:-1 tvg-name="BSフジ BS Fuji" tvg-id="BSフジ BS Fuji" tvg-logo="https://livecdn.zbds.top/logo/BSフジ BS Fuji.png" group-title="日本", BSフジ BS Fuji
+https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
+#EXTINF:-1 tvg-name="CNA Japan" tvg-id="CNA Japan" tvg-logo="https://livecdn.zbds.top/logo/CNA Japan.png" group-title="日本", CNA Japan
+https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
+#EXTINF:-1 tvg-name="BS-TBS" tvg-id="BS-TBS" tvg-logo="https://livecdn.zbds.top/logo/BS-TBS.png" group-title="日本", BS-TBS
+https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
+#EXTINF:-1 tvg-name="NHK Oaska" tvg-id="NHK Oaska" tvg-logo="https://livecdn.zbds.top/logo/NHK Oaska.png" group-title="日本", NHK Oaska
+https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
 #EXTINF:-1 tvg-name="赛事播01" tvg-id="赛事播01" tvg-logo="" group-title="足球", 赛事播01
 http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="NBATV" tvg-id="NBATV" tvg-logo="" group-title="NBA", NBA TV FHD
